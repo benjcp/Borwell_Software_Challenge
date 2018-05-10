@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\bin\Release\BorewellSoftwareChallenge.exe.config
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\bin\Release\BorewellSoftwareChallenge.exe
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\bin\Release\BorewellSoftwareChallenge.pdb
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\obj\Release\BorwellSoftwareChallenge.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\obj\Release\BorewellSoftwareChallenge.Challenge.resources
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\obj\Release\BorewellSoftwareChallenge.Properties.Resources.resources
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\obj\Release\BorwellSoftwareChallenge.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\obj\Release\BorewellSoftwareChallenge.exe
+C:\Users\PC\Desktop\BorewellSoftwareChallenge\BorewellSoftwareChallenge\obj\Release\BorewellSoftwareChallenge.pdb
